@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/IOTFragment"
+        android:icon="@drawable/ic_iot"
+        android:title="IOT" />
+    <item
+        android:id="@+id/projectsFragment"
+        android:icon="@drawable/ic_projects"
+        android:title="Projects" />
+    <item
+        android:id="@+id/achievementsFragment"
+        android:icon="@drawable/ic_achievements"
+        android:title="Achievements" />
+    <item
+        android:id="@+id/announcementsFragment"
+        android:icon="@drawable/ic_announcement"
+        android:title="Announcements" />
+    </group>
+    <item
+        android:title="Admin Section"
+        android:visible="true">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/newAnnoucementFragment"
+                    android:icon="@drawable/ic_write"
+                    android:title="New Announcement" />
+
+            </group>
+
+        </menu>
+
+    </item>
+
+    <group
+        android:id="@+id/supportSection"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/aboutFragment"
+            android:icon="@drawable/ic_about"
+            android:title="About" />
+        <item
+            android:id="@+id/ourTeamFragment"
+            android:icon="@drawable/ic_coreteam"
+            android:title="Our Team" />
+
+    </group>
+</menu>

@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Swarm of Autonomous Drones (Inter IIT Tech Meet 2022)",
+    "description": "Developed Python wrappers for Pluto drones, controlled using ROS to autonomously traverse a rectangular trajectory with computer vision for pose estimation and localization. Implemented master-slave trajectory following for two drones. Video available on the club's YouTube channel.",
+    "image": "https://res.cloudinary.com/dfov3mpyf/image/upload/v1717311374/Projects/interiit2022drone_rkxlrf.webp",
+    "github": "",
+    "video": "https://youtu.be/PdnE_47Gra4?si=RrVujMBClepQSohm"
+  },
+  {
+    "name": "Autonomous Battery Swapper Robotic Arm (Inter IIT Tech Meet 2022)",
+    "description": "Created a CAD design in SOLIDWORKS for an autonomous battery swapping arm for electric vehicles, considering constraints like cost, size, and practicality. Control systems implemented in MATLAB and Simulink. Animation video available on YouTube.",
+    "image": "https://res.cloudinary.com/dfov3mpyf/image/upload/v1717313735/Projects/interiit2022jlr_xylzm8.png",
+    "github": "",
+    "video": "https://youtu.be/_ML-A-CZvcg?si=FrVEPdOg93SUxSZV"
+  },
+  {
+    "name": "Self Driving Car Simulation (NXP AIM 2022 Competition)",
+    "description": "Developed algorithms for self-driving on tracks in a Gazebo environment using ROS2 and YOLOV5 for object detection and avoidance. Handled varying terrain with pose control. Video results available.",
+    "image": "https://res.cloudinary.com/dfov3mpyf/image/upload/v1717311474/Projects/nxpaim2022_owqtte.png",
+    "github": "https://github.com/Pranay-Pandey/self_driving_car",
+    "video": "https://drive.google.com/file/d/1TNXV4ZL6tN5DBv1btDhyzr5UO4RZSoLL/view"
+  },
+  {
+    "name": "Sentinel Drone",
+    "description": "Developed for eYRC IITB 2022-23 competition, the drone identifies anomalies, saves images, and sends them to a ground control station for feature matching and georeferencing. Reached finals completing the final task 6.",
+    "image": "https://res.cloudinary.com/dfov3mpyf/image/upload/v1717311552/Projects/eyrcsentineldrone_fu2isl.webp",
+    "github": "https://github.com/dhruvsh-1729/eyrc22_SD_1785",
+    "video": "https://youtu.be/evg6zYMV03U"
+  },
+  {
+    "name": "Remotely Operated Underwater Vehicle Prototype",
+    "description": "Explored underwater robotics with a prototype featuring a ballast tank, 12V DC pump, and a basic arm for underwater object manipulation. Successful tests led to a bigger AUV project.",
+    "image": "https://res.cloudinary.com/dfov3mpyf/image/upload/v1717311258/Projects/underwaterbot_gpm8at.jpg",
+    "github": "",
+    "video": ""
+  },
+  {
+    "name": "Autonomous Warehouse Robot",
+    "description": "Developed for autonomous warehouse management, this bot performs pick and place operations using computer vision and Aruco markers for pose estimation and navigation.",
+    "image": "https://res.cloudinary.com/dfov3mpyf/image/upload/v1717311648/Projects/warehouse_bot_fax3mu.jpg",
+    "github": "https://github.com/dhruvsh-1729/NVCTI-Winter-Challenge-Hustlers",
+    "video": "https://drive.google.com/file/d/1L1_ZlJt8k8v22MaW8Eo6A-hhQaJUXBTD/view?usp=sharing"
+  },
+  {
+    "name": "Autonomous Crop Spraying Drone and Battery Swapping Arm Simulation",
+    "description": "Developed a simulation for an autonomous crop spraying drone and a battery swapping arm using ROS, Gazebo, PX4 Autopilot, and Visual Python. Project in progress.",
+    "image": "https://res.cloudinary.com/dfov3mpyf/image/upload/v1717313855/Projects/autonomousdronecrop_wttu6l.png",
+    "github": "",
+    "video": "https://youtu.be/ncElqPy8ckY?si=hBO3YChm5rdYlPT4"
+  },
+  {
+    "name": "Google Cartographer SLAM Indoor Simulation",
+    "description": "Tested Google Cartographer SLAM in an indoor environment using ROS and Gazebo. Compared with GMapping, Karto SLAM, and Hector SLAM, and found Cartographer to perform the best.",
+    "image": "https://res.cloudinary.com/dfov3mpyf/image/upload/v1717312686/Projects/googlecartographer_vynejp.png",
+    "github": "https://github.com/dhruvsh-1729/Google_Cartographer_Turtlebot3",
+    "video": "https://youtu.be/2wkjjHiL8Fs?si=TYLuRhb9DlLj3duH"
+  },
+  {
+    "name": "Flying machine",
+    "description": "Developed an autonomous quadcopter with DJI’s Naza M V2 flight controller, GPS, and barometer for altitude and waypoint navigation. Achieved GPS and altitude lock during the flight.",
+    "image": "https://res.cloudinary.com/dfov3mpyf/image/upload/v1717311959/Projects/flyingmachine_bmn29m.jpg",
+    "github": "",
+    "video": ""
+  },
+  {
+    "name": "Terrace Farming Robot",
+    "description": "An autonomous robot for terrace farming in hilly areas. Features a chain slider mechanism for stair climbing and can perform ploughing, seeding, and harvesting.",
+    "image": "https://res.cloudinary.com/dfov3mpyf/image/upload/v1717312196/Projects/terracefarmingrobot_fylvbg.jpg",
+    "github": "https://github.com/kjyothiswaroop/Terrace-Farming-Robot-InterIITTechMeet8.0",
+    "video": ""
+  },
+  {
+    "name": "MULTIm-8",
+    "description": "Automated system for batch programming up to 16 AT-Tiny85 ICs using Arduino Uno and a Python script. Hard-codes each IC with a unique ID from a specified range.",
+    "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/3.png",
+    "github": "https://github.com/matiyau/MULTIm-8",
+    "video": ""
+  },
+  {
+    "name": "Rubik Cube Solver",
+    "description": "A bot that captures faces of a 2x2x2 Rubik’s Cube and solves it using Python and Arduino. Features camera, grippers, and face detection algorithm for colour-independent solution.",
+    "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/1.png",
+    "github": "https://github.com/matiyau/RuDe",
+    "video": ""
+  },
+  {
+    "name": "Epileptic Seizure Detection and Alert Device",
+    "description": "Wearable wristband recording sEMG signals and accelerometry to predict epileptic seizures. Notifies caretaker with patient location and provides first aid instructions via Android app.",
+    "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/8.png",
+    "github": "https://github.com/kjyothiswaroop/Seizure-glove",
+    "video": ""
+  },
+  {
+    "name": "Object Detection and Tracking For Aerial View",
+    "description": "Developed an autonomous navigation system for aerial vehicles using YOLO for object detection and CSRT/Kalmann Filters for tracking. Trained on CARPK Dataset.",
+    "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/9.png",
+    "github": "https://github.com/hackabit19/Creators",
+    "video": ""
+  },
+  {
+    "name": "IRis",
+    "description": "Low-cost Audience Response System using IR communication. Supports 63 polling devices driven by Attiny85 microcontrollers, using Master-Slave protocol with Time Division Multiplexing.",
+    "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/10.png",
+    "github": "https://github.com/matiyau/IRis",
+    "video": ""
+  },
+  {
+    "name": "Ergonomic Crutches",
+    "description": "Designed ergonomic crutches to tackle issues like stair climbing, portability, and muscle strain. Features adjustable handle, thigh cuff support, and foldable design.",
+    "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/11.png",
+    "github": "",
+    "video": ""
+  },
+  {
+    "name": "ParaShoot",
+    "description": "Autonomous vehicle for detecting human presence using a dual camera system. Processes frames with OpenCV to compute coordinates and transmit them to a control station.",
+    "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/7.png",
+    "github": "",
+    "video": ""
+  },
+  {
+    "name": "BotISM",
+    "description": "This bot was specifically made for the event IARC of Techkriti '19. The problem statement was to solve a maze with additional functions like reading data from black and white grids called nodes, controlling speed of the bot as per the data or choosing the right path using the data, stopping at red signals and obstacles. We used 2 IR sensors to solve the maze using the left-hand algorithm. Four IRs were used to read data from nodes and 4 more were used to distinguish a node from a path. We used an RGB colour sensor to detect Red LED signals and an Ultrasonic sensor to detect obstacles. We used a hall-effect sensor and magnets to calculate the bot's speed and adjusted it to the desired speed using PWM. Finally, a compass-sensor was used to calculate the angle turned by our bot and turn until we reached the correct angle where our correct path was. We also used an LCD display to display the values we read from a node.",
+    "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/17.png",
+    "github": "https://github.com/JaySharma1048576/BotISM-Techkriti-19-",
+    "video": ""
+  },
+  {
+    "name": "Drive-Assist Technology",
+    "description": "This project was developed during a 36-hours long hackathon, Hackfest ‘19. The aim of this project was to develop the prototype of a technology to stabilize two-wheeled vehicles to reduce the on-road accidents. The prototype works on Reaction wheel mechanism which uses a high torque motor and a fly wheel to control the posture of the vehicle. A complimentary filter was used to calculate the accurate inclination of the vehicle using the accelerometer and gyroscope readings from the MPU6050. The deviation from vertical axis was fed to the PD controller which controlled the high torque DC motor to generate a restoring torque. This restoring torque maintained the vertical position of the two-wheeler. The chassis was 3D printed using PLA. This project won the 2nd Runners-up in the competition.",
+    "image": "https://swaraj-jain.github.io/ROBOISM-Webpage/img/projects/32.png",
+    "github": "",
+    "video": ""
+  }
+]

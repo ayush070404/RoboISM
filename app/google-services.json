@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121009203363",
+    "project_id": "roboism-db0a3",
+    "storage_bucket": "roboism-db0a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121009203363:android:cf710a64bb1ea3a0a93716",
+        "android_client_info": {
+          "package_name": "com.sid.roboism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65Gzh-nwILx7tmw80e7CbcP1ruTqHnOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
